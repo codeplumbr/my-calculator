@@ -1,5 +1,9 @@
-def area_circle(r)
-    return 3.14*r*r
+def area_circle(radius)
+    return 3.14*radius*radius
 
-def area_triangle(b,h)
-    return .5 * b * h
+def area_triangle(b,height)
+    return .5 * b * height
+
+def area_cone(r,h)
+    return 3.14 * r * h
+
