@@ -7,3 +7,6 @@ def area_triangle(b,height)
 def area_cone(r,h)
     return 3.14 * r * h
 
+def area_rectangle(l,b)
+    return l*b
+
